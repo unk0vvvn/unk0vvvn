@@ -7,7 +7,9 @@
 
 
 <p align="center">
+  <a href="http://solved.ac/eureka">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eureka"/>
+  </a>
  </p>
  <!--
  <p align="center">
